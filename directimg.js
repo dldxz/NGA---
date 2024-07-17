@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         NGA优化摸鱼体验插件-代码图片直接浏览
-// @namespace    http://
+// @namespace    https://github.com/dldxz/NGA-BBS-plugin
 // @version      1.0.0
 // @author       dldxz
 // @description  自动替换帖子内代码图片链接，优化跟车体验
